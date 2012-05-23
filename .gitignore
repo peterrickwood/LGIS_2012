@@ -1,0 +1,7 @@
+#latex extra
+plots.pdf
+*.log
+*.aux
+
+#vim swap
+*.swp
