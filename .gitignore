@@ -1,7 +1,12 @@
 #latex extra
 plots.pdf
+slide.pdf
 *.log
 *.aux
+*.nav
+*.out
+*.snm
+*.toc
 
 #vim swap
 *.swp
